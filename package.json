@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^1.7.4",
+    "discord.js": "^14.15.3",
+    "lunr": "^2.3.9",
+    "noblox.js": "^5.0.1",
+    "stream-json": "^1.8.0",
+    "telegraf": "^4.16.3",
+    "uuid": "^10.0.0"
+  }
+}
